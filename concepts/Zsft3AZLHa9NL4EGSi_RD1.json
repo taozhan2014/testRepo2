@@ -1,0 +1,25 @@
+{
+  "uri" : "local://Zsft3AZLHa9NL4EGSi_RD1/",
+  "name" : "Root Concept for testRepo",
+  "category" : "",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "_repo_holder",
+    "expr" : {
+      "str" : ""
+    }
+  }, {
+    "name" : "repo",
+    "expr" : {
+      "concept" : "/common/core/dikjRMQUWrB_rK4hvxvxP8/",
+      "bindings" : {
+        "holder" : "_repo_holder"
+      }
+    }
+  } ],
+  "isas" : [ {
+    "var" : "repo"
+  } ],
+  "isLambda" : false
+}
